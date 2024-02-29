@@ -20,13 +20,13 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/20/2024 15:48:23</CreationDateTime>
-  <ModifiedDateTime>2/29/2024 10:50:00</ModifiedDateTime>
+  <ModifiedDateTime>2/29/2024 11:03:24</ModifiedDateTime>
   <PageBounds>0 0 17.75 9.59722222222</PageBounds>
   <ScreenResolution>0 0 2559 1599</ScreenResolution>
   <MathType>0</MathType>
   <AllowOptionsDialogs>1</AllowOptionsDialogs>
   <AllowAutoCurveFit>1</AllowAutoCurveFit>
-  <ReplayWindowPosition>0 188 398 597 623 1</ReplayWindowPosition>
+  <ReplayWindowPosition>0 444 1292 853 1517 1</ReplayWindowPosition>
   <ReplayWindowSpeed>1</ReplayWindowSpeed>
   <ReplayWindowRepeat>0</ReplayWindowRepeat>
   <SensorConflictEnabled>1</SensorConflictEnabled>
@@ -45,7 +45,7 @@
   <Page>
     <ID>100 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>0</Visible>
+    <Visible>1</Visible>
     <PageTitle></PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -194,21 +194,21 @@
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 115 0.711482 </TableColumn>
-      <TableColumn> 117 0.711482 </TableColumn>
-      <TableColumn> 175 0.711482 </TableColumn>
-      <TableColumn> 126 0.711482 </TableColumn>
-      <TableColumn> 128 0.711482 </TableColumn>
-      <TableColumn> 199 0.711482 </TableColumn>
-      <TableColumn> 353 0.8 </TableColumn>
-      <TableColumn> 355 0.8 </TableColumn>
-      <TableColumn> 357 0.8 </TableColumn>
-      <TableColumn> 363 0.8 </TableColumn>
-      <TableColumn> 367 0.8 </TableColumn>
-      <TableColumn> 436 0.8 </TableColumn>
-      <TableColumn> 602 0.8 </TableColumn>
-      <TableColumn> 606 0.8 </TableColumn>
-      <TableColumn> 610 0.8 </TableColumn>
+      <TableColumn> 115 0.8 </TableColumn>
+      <TableColumn> 117 0.8 </TableColumn>
+      <TableColumn> 175 0.8 </TableColumn>
+      <TableColumn> 126 0.8 </TableColumn>
+      <TableColumn> 128 0.8 </TableColumn>
+      <TableColumn> 199 0.8 </TableColumn>
+      <TableColumn> 353 0.899531 </TableColumn>
+      <TableColumn> 355 0.899531 </TableColumn>
+      <TableColumn> 357 0.899531 </TableColumn>
+      <TableColumn> 363 0.899531 </TableColumn>
+      <TableColumn> 367 0.899531 </TableColumn>
+      <TableColumn> 436 0.899531 </TableColumn>
+      <TableColumn> 602 0.899531 </TableColumn>
+      <TableColumn> 606 0.899531 </TableColumn>
+      <TableColumn> 610 0.899531 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -295,7 +295,7 @@ Time constant = -1/slope
       </StyleRun>
       <StyleRun>
         <Start> 126 </Start>
-        <End> 258 </End>
+        <End> 272 </End>
         <Font>
           <Size> 12 </Size>
           <Justification> 0 </Justification>
@@ -386,7 +386,7 @@ Time constant = -1/slope
       <ID>206 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>5.20702422917 7.17021111111 8.7104998151 8.26380486111 </Bounds>
+      <Bounds>5.20702422917 7.17021111111 8.71049981511 8.26380486111 </Bounds>
       <SubordinateToID>202</SubordinateToID>
       <SubordinateOffset>2.36181 2.3616</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -515,9 +515,9 @@ Time constant = -1/slope
       <ID>144 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.17924622917 1.48966 7.50230189323 2.77075375 </Bounds>
+      <Bounds>4.34521622917 1.49715 7.66827189323 2.77824375 </Bounds>
       <SubordinateToID>136</SubordinateToID>
-      <SubordinateOffset>1.33403 1.47966</SubordinateOffset>
+      <SubordinateOffset>1.5 1.48715</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -673,9 +673,9 @@ Time constant = -1/slope
       <ID>194 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.43863622917 6.62736111111 7.8171118151 7.72095486111 </Bounds>
+      <Bounds>4.63687622917 6.63657111111 8.01535181511 7.73016486111 </Bounds>
       <SubordinateToID>178</SubordinateToID>
-      <SubordinateOffset>1.59342 1.81875</SubordinateOffset>
+      <SubordinateOffset>1.79166 1.82796</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -797,7 +797,7 @@ Time constant = -1/slope
       </StyleRun>
       <StyleRun>
         <Start> 125 </Start>
-        <End> 261 </End>
+        <End> 277 </End>
         <Font>
           <Size> 12 </Size>
           <Justification> 0 </Justification>
@@ -815,7 +815,7 @@ Time constant = -1/slope
   <Page>
     <ID>278 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>1</Visible>
+    <Visible>0</Visible>
     <PageTitle></PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -1003,11 +1003,53 @@ Time constant = -1/slope
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 106 182 515 407</PageReplayWindowPosition>
-    <PageText>
-      <ID>621 </ID>
+    <PageTable>
+      <ID>440 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.005 6.24319444444 2.82021622917 9.58222222222 </Bounds>
+      <Bounds>0.0075 0.0075 2.59297332695 6.23069444444 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 115 0.633235329267 </TableColumn>
+      <TableColumn> 117 0.633235329267 </TableColumn>
+      <TableColumn> 175 0.633234439246 </TableColumn>
+      <TableColumn> 126 0.633235329267 </TableColumn>
+      <TableColumn> 128 0.633235329267 </TableColumn>
+      <TableColumn> 199 0.633234439246 </TableColumn>
+      <TableColumn> 353 0.712017382585 </TableColumn>
+      <TableColumn> 355 0.712017382585 </TableColumn>
+      <TableColumn> 357 0.761463429719 </TableColumn>
+      <TableColumn> 363 1.54023600201 </TableColumn>
+      <TableColumn> 367 0.712017382585 </TableColumn>
+      <TableColumn> 436 0.712017382585 </TableColumn>
+      <TableColumn> 602 1.77509493565 </TableColumn>
+      <TableColumn> 606 0.712017382585 </TableColumn>
+      <TableColumn> 610 0.712017382585 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageText>
+      <ID>646 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.005 6.24319444444 2.58547332695 9.58222222222 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1058,7 +1100,7 @@ Time constant = -1/slope
       <ID>620 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.84521622917 0.01 17.74 9.58722222222 </Bounds>
+      <Bounds>2.61047332695 0.01 17.74 9.58722222222 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1127,50 +1169,8 @@ Time constant = -1/slope
       <AudioTraceIDs>1 606 </AudioTraceIDs>
       <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
     </PageGraphCartesian>
-    <PageTable>
-      <ID>440 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.0075 0.0075 2.82771622917 6.23069444444 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 115 0.711483 </TableColumn>
-      <TableColumn> 117 0.711483 </TableColumn>
-      <TableColumn> 175 0.711482 </TableColumn>
-      <TableColumn> 126 0.711483 </TableColumn>
-      <TableColumn> 128 0.711483 </TableColumn>
-      <TableColumn> 199 0.711482 </TableColumn>
-      <TableColumn> 353 0.8 </TableColumn>
-      <TableColumn> 355 0.8 </TableColumn>
-      <TableColumn> 357 0.855556 </TableColumn>
-      <TableColumn> 363 1.73056 </TableColumn>
-      <TableColumn> 367 0.8 </TableColumn>
-      <TableColumn> 436 0.8 </TableColumn>
-      <TableColumn> 602 1.99444 </TableColumn>
-      <TableColumn> 606 0.8 </TableColumn>
-      <TableColumn> 610 0.8 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
   </Page>
-  <CurrentPageIndex>2</CurrentPageIndex>
+  <CurrentPageIndex>0</CurrentPageIndex>
   <DataSet>
     <ID>114 </ID>
     <BroadcastTo>6 4 107 134 177 288 440 </BroadcastTo>
@@ -1456,7 +1456,7 @@ B
       <Visible>1</Visible>
       <DataObjectName>m*x+b</DataObjectName>
       <DataObjectShortName>Linear</DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x2e</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>0</DataObjectPrecisionDecimal>
       <DataObjectPrecision>4</DataObjectPrecision>
