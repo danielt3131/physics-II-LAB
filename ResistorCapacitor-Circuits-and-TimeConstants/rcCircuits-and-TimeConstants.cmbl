@@ -20,13 +20,13 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/20/2024 15:48:23</CreationDateTime>
-  <ModifiedDateTime>2/29/2024 11:07:20</ModifiedDateTime>
+  <ModifiedDateTime>2/29/2024 16:53:29</ModifiedDateTime>
   <PageBounds>0 0 17.75 9.59722222222</PageBounds>
   <ScreenResolution>0 0 2559 1599</ScreenResolution>
   <MathType>0</MathType>
   <AllowOptionsDialogs>1</AllowOptionsDialogs>
   <AllowAutoCurveFit>1</AllowAutoCurveFit>
-  <ReplayWindowPosition>0 188 398 597 623 1</ReplayWindowPosition>
+  <ReplayWindowPosition>0 106 182 515 407 1</ReplayWindowPosition>
   <ReplayWindowSpeed>1</ReplayWindowSpeed>
   <ReplayWindowRepeat>0</ReplayWindowRepeat>
   <SensorConflictEnabled>1</SensorConflictEnabled>
@@ -54,122 +54,6 @@
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 444 1292 853 1517</PageReplayWindowPosition>
-    <PageGraphCartesian>
-      <ID>106 </ID>
-      <BroadcastTo>1 122 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>2.84521422917 0.01 17.74 4.78861111111 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>1</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <GraphTitle>Charging of a capacitor V0 = 5V</GraphTitle>
-      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
-      <GraphShowPoints>0</GraphShowPoints>
-      <GraphInterpolate>0</GraphInterpolate>
-      <GraphShowTangent>0</GraphShowTangent>
-      <GraphShowLegend>0</GraphShowLegend>
-      <GraphShowCursorStatus>1</GraphShowCursorStatus>
-      <GraphShowCursorDelta>1</GraphShowCursorDelta>
-      <GraphPlotBaseColumnID>126 </GraphPlotBaseColumnID>
-      <GraphPlotTraceIDPairs>2 126 128 126 124 </GraphPlotTraceIDPairs>
-      <LogXAxis>0</LogXAxis>
-      <LogYAxis>0</LogYAxis>
-      <LogRightYAxis>0</LogRightYAxis>
-      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
-      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
-      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
-      <GraphConnectLines>1</GraphConnectLines>
-      <GraphBarGraph>0</GraphBarGraph>
-      <BinGraphStackColumns>0</BinGraphStackColumns>
-      <GraphShowPointProtectors>0</GraphShowPointProtectors>
-      <GraphMajorTickStyle>1</GraphMajorTickStyle>
-      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
-      <GraphMinorTickStyle>0</GraphMinorTickStyle>
-      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
-      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
-      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
-      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
-      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
-      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
-      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
-      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
-      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
-      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
-      <GraphPlotXMin>0</GraphPlotXMin>
-      <GraphPlotXMax>3</GraphPlotXMax>
-      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
-      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>0</GraphPlotYMin>
-      <GraphPlotYMax>4.8</GraphPlotYMax>
-      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
-      <GraphPlotDefaultXMax>3</GraphPlotDefaultXMax>
-      <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
-      <GraphPlotDefaultYMax>5</GraphPlotDefaultYMax>
-      <GraphPlotXLabel></GraphPlotXLabel>
-      <GraphPlotYLabel></GraphPlotYLabel>
-      <GraphDrawRainbow>0</GraphDrawRainbow>
-      <AudioTraceIDs>2 128 124 </AudioTraceIDs>
-      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
-    </PageGraphCartesian>
-    <PageHelperDataCurveFit>
-      <ID>122 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>3.67230022917 0.545216 6.84258489714 1.82630975 </Bounds>
-      <SubordinateToID>106</SubordinateToID>
-      <SubordinateOffset>0.827086 0.535216</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 9 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <GUIHelperRangeMin>0.0606045</GUIHelperRangeMin>
-      <GUIHelperRangeMax>3</GUIHelperRangeMax>
-      <GUIHelperTraceColumnID>128</GUIHelperTraceColumnID>
-      <GUIHelperBaseColumnID>126</GUIHelperBaseColumnID>
-      <GUIHelperPrecision>4</GUIHelperPrecision>
-      <GUIHelperPrecisionDecimal>0</GUIHelperPrecisionDecimal>
-      <GUIHelperMinimized>0</GUIHelperMinimized>
-      <GUIHelperUseEntireRange>0</GUIHelperUseEntireRange>
-      <GUIHelperUnderlyingHistogramFFTColumnID>0</GUIHelperUnderlyingHistogramFFTColumnID>
-      <CurveFitFunctionID>124</CurveFitFunctionID>
-      <CurveFitColumnID>0</CurveFitColumnID>
-      <CurveFitError>0.00969296</CurveFitError>
-      <CurveFitMethod>1</CurveFitMethod>
-      <CurveFitUncertainty>1</CurveFitUncertainty>
-      <ManualCurveFitIncrements>3 0.1 0.1 0.1 </ManualCurveFitIncrements>
-      <ManualCurveFitShowRMSE>1</ManualCurveFitShowRMSE>
-      <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
-      <CurveFitCorrelation>0.999969</CurveFitCorrelation>
-    </PageHelperDataCurveFit>
     <PageText>
       <ID>120 </ID>
       <BroadcastTo>0 </BroadcastTo>
@@ -344,7 +228,7 @@ Time constant = -1/slope
       <ID>206 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>5.20702422917 7.17021111111 8.71049981511 8.26380486111 </Bounds>
+      <Bounds>5.20702422917 7.17021111111 12.2470270575 8.27418960819 </Bounds>
       <SubordinateToID>202</SubordinateToID>
       <SubordinateOffset>2.36181 2.3616</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -425,6 +309,122 @@ Time constant = -1/slope
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
+    <PageGraphCartesian>
+      <ID>106 </ID>
+      <BroadcastTo>1 122 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>2.84521422917 0.01 17.74 4.78861111111 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>1</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle>Charging of a capacitor V0 = 5V</GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>126 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>2 126 128 126 124 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphBarGraph>0</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0</GraphPlotXMin>
+      <GraphPlotXMax>3</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>0</GraphPlotYMin>
+      <GraphPlotYMax>4.8</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>3</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>5</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <AudioTraceIDs>2 128 124 </AudioTraceIDs>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageHelperDataCurveFit>
+      <ID>122 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>3.67230022917 0.545216 10.042777911 1.83847499379 </Bounds>
+      <SubordinateToID>106</SubordinateToID>
+      <SubordinateOffset>0.827086 0.535216</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 9 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GUIHelperRangeMin>0.0606045</GUIHelperRangeMin>
+      <GUIHelperRangeMax>3</GUIHelperRangeMax>
+      <GUIHelperTraceColumnID>128</GUIHelperTraceColumnID>
+      <GUIHelperBaseColumnID>126</GUIHelperBaseColumnID>
+      <GUIHelperPrecision>4</GUIHelperPrecision>
+      <GUIHelperPrecisionDecimal>0</GUIHelperPrecisionDecimal>
+      <GUIHelperMinimized>0</GUIHelperMinimized>
+      <GUIHelperUseEntireRange>0</GUIHelperUseEntireRange>
+      <GUIHelperUnderlyingHistogramFFTColumnID>0</GUIHelperUnderlyingHistogramFFTColumnID>
+      <CurveFitFunctionID>124</CurveFitFunctionID>
+      <CurveFitColumnID>0</CurveFitColumnID>
+      <CurveFitError>0.00969296</CurveFitError>
+      <CurveFitMethod>1</CurveFitMethod>
+      <CurveFitUncertainty>1</CurveFitUncertainty>
+      <ManualCurveFitIncrements>3 0.1 0.1 0.1 </ManualCurveFitIncrements>
+      <ManualCurveFitShowRMSE>1</ManualCurveFitShowRMSE>
+      <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
+      <CurveFitCorrelation>0.999969</CurveFitCorrelation>
+    </PageHelperDataCurveFit>
   </Page>
   <Page>
     <ID>130 </ID>
@@ -515,7 +515,7 @@ Time constant = -1/slope
       <ID>144 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.34521622917 1.49715 7.66827189323 2.77824375 </Bounds>
+      <Bounds>4.34521622917 1.49715 11.022677139 2.79040899379 </Bounds>
       <SubordinateToID>136</SubordinateToID>
       <SubordinateOffset>1.5 1.48715</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -673,7 +673,7 @@ Time constant = -1/slope
       <ID>194 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.63687622917 6.63657111111 8.01535181511 7.73016486111 </Bounds>
+      <Bounds>4.63687622917 6.63657111111 11.4256998122 7.74054960819 </Bounds>
       <SubordinateToID>178</SubordinateToID>
       <SubordinateOffset>1.79166 1.82796</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -815,7 +815,7 @@ Time constant = -1/slope
   <Page>
     <ID>278 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>1</Visible>
+    <Visible>0</Visible>
     <PageTitle></PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -824,6 +824,79 @@ Time constant = -1/slope
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 188 398 597 623</PageReplayWindowPosition>
+    <PageGraphCartesian>
+      <ID>618 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>2.84521622917 0.01 17.74 9.58722222222 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle>Charging Time Constant Error Bars</GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>363 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 363 367 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>0</GraphShowBaseErrorBars>
+      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphBarGraph>1</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>1</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0</GraphPlotXMin>
+      <GraphPlotXMax>3.8</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>1.077</GraphPlotYMin>
+      <GraphPlotYMax>1.101</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0.5</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>1.4</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>1.0776</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>1.0824</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <AudioTraceIDs>1 367 </AudioTraceIDs>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
     <PageText>
       <ID>619 </ID>
       <BroadcastTo>0 </BroadcastTo>
@@ -917,84 +990,11 @@ Time constant = -1/slope
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
-    <PageGraphCartesian>
-      <ID>618 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>2.84521622917 0.01 17.74 9.58722222222 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <GraphTitle>Charging Time Constant Error Bars</GraphTitle>
-      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x0</GraphTitleColor>
-      <GraphShowPoints>0</GraphShowPoints>
-      <GraphInterpolate>0</GraphInterpolate>
-      <GraphShowTangent>0</GraphShowTangent>
-      <GraphShowLegend>0</GraphShowLegend>
-      <GraphShowCursorStatus>1</GraphShowCursorStatus>
-      <GraphShowCursorDelta>1</GraphShowCursorDelta>
-      <GraphPlotBaseColumnID>363 </GraphPlotBaseColumnID>
-      <GraphPlotTraceIDPairs>1 363 367 </GraphPlotTraceIDPairs>
-      <LogXAxis>0</LogXAxis>
-      <LogYAxis>0</LogYAxis>
-      <LogRightYAxis>0</LogRightYAxis>
-      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
-      <GraphShowBaseErrorBars>0</GraphShowBaseErrorBars>
-      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
-      <GraphConnectLines>0</GraphConnectLines>
-      <GraphBarGraph>1</GraphBarGraph>
-      <BinGraphStackColumns>0</BinGraphStackColumns>
-      <GraphShowPointProtectors>0</GraphShowPointProtectors>
-      <GraphMajorTickStyle>1</GraphMajorTickStyle>
-      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMajorTickColor>
-      <GraphMinorTickStyle>0</GraphMinorTickStyle>
-      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMinorTickColor>
-      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
-      <GraphPlotYAutoscale>1</GraphPlotYAutoscale>
-      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
-      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
-      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
-      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
-      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
-      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
-      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
-      <GraphPlotXMin>0.5</GraphPlotXMin>
-      <GraphPlotXMax>1.4</GraphPlotXMax>
-      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
-      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>1.0776</GraphPlotYMin>
-      <GraphPlotYMax>1.0824</GraphPlotYMax>
-      <GraphPlotDefaultXMin>0.5</GraphPlotDefaultXMin>
-      <GraphPlotDefaultXMax>1.4</GraphPlotDefaultXMax>
-      <GraphPlotDefaultYMin>1.0776</GraphPlotDefaultYMin>
-      <GraphPlotDefaultYMax>1.0824</GraphPlotDefaultYMax>
-      <GraphPlotXLabel></GraphPlotXLabel>
-      <GraphPlotYLabel></GraphPlotYLabel>
-      <GraphDrawRainbow>0</GraphDrawRainbow>
-      <AudioTraceIDs>1 367 </AudioTraceIDs>
-      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
-    </PageGraphCartesian>
   </Page>
   <Page>
     <ID>438 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>0</Visible>
+    <Visible>1</Visible>
     <PageTitle></PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -1003,48 +1003,6 @@ Time constant = -1/slope
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 106 182 515 407</PageReplayWindowPosition>
-    <PageTable>
-      <ID>440 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.0075 0.0075 2.59297332695 6.23069444444 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 115 0.633235329267 </TableColumn>
-      <TableColumn> 117 0.633235329267 </TableColumn>
-      <TableColumn> 175 0.633234439246 </TableColumn>
-      <TableColumn> 126 0.633235329267 </TableColumn>
-      <TableColumn> 128 0.633235329267 </TableColumn>
-      <TableColumn> 199 0.633234439246 </TableColumn>
-      <TableColumn> 353 0.712017382585 </TableColumn>
-      <TableColumn> 355 0.712017382585 </TableColumn>
-      <TableColumn> 357 0.761463429719 </TableColumn>
-      <TableColumn> 363 1.54023600201 </TableColumn>
-      <TableColumn> 367 0.712017382585 </TableColumn>
-      <TableColumn> 436 0.712017382585 </TableColumn>
-      <TableColumn> 602 1.77509493565 </TableColumn>
-      <TableColumn> 606 0.712017382585 </TableColumn>
-      <TableColumn> 610 0.712017382585 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
     <PageText>
       <ID>646 </ID>
       <BroadcastTo>0 </BroadcastTo>
@@ -1096,6 +1054,48 @@ Time constant = -1/slope
       </StyleRun>
       <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
     </PageText>
+    <PageTable>
+      <ID>440 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.0075 0.0075 2.59297332695 6.23069444444 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 115 0.633235329267 </TableColumn>
+      <TableColumn> 117 0.633235329267 </TableColumn>
+      <TableColumn> 175 0.633234439246 </TableColumn>
+      <TableColumn> 126 0.633235329267 </TableColumn>
+      <TableColumn> 128 0.633235329267 </TableColumn>
+      <TableColumn> 199 0.633234439246 </TableColumn>
+      <TableColumn> 353 0.712017382585 </TableColumn>
+      <TableColumn> 355 0.712017382585 </TableColumn>
+      <TableColumn> 357 0.761463429719 </TableColumn>
+      <TableColumn> 363 1.54023600201 </TableColumn>
+      <TableColumn> 367 0.712017382585 </TableColumn>
+      <TableColumn> 436 0.712017382585 </TableColumn>
+      <TableColumn> 602 1.77509493565 </TableColumn>
+      <TableColumn> 606 0.712017382585 </TableColumn>
+      <TableColumn> 610 0.712017382585 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
     <PageGraphCartesian>
       <ID>620 </ID>
       <BroadcastTo>0 </BroadcastTo>
@@ -1121,7 +1121,7 @@ Time constant = -1/slope
         <Rotation>0</Rotation>
       </Font>
       <GraphTitle>Discharging Time Constant Error Bars</GraphTitle>
-      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x0</GraphTitleColor>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
       <GraphShowTangent>0</GraphShowTangent>
@@ -1141,9 +1141,9 @@ Time constant = -1/slope
       <BinGraphStackColumns>0</BinGraphStackColumns>
       <GraphShowPointProtectors>0</GraphShowPointProtectors>
       <GraphMajorTickStyle>1</GraphMajorTickStyle>
-      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMajorTickColor>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
       <GraphMinorTickStyle>0</GraphMinorTickStyle>
-      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMinorTickColor>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
       <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
       <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
       <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
@@ -1153,12 +1153,12 @@ Time constant = -1/slope
       <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
       <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
       <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
-      <GraphPlotXMin>0.5</GraphPlotXMin>
-      <GraphPlotXMax>1.4</GraphPlotXMax>
+      <GraphPlotXMin>0</GraphPlotXMin>
+      <GraphPlotXMax>3.8</GraphPlotXMax>
       <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>1.092</GraphPlotYMin>
-      <GraphPlotYMax>1.106</GraphPlotYMax>
+      <GraphPlotYMin>1.09</GraphPlotYMin>
+      <GraphPlotYMax>1.15</GraphPlotYMax>
       <GraphPlotDefaultXMin>0.5</GraphPlotDefaultXMin>
       <GraphPlotDefaultXMax>1.4</GraphPlotDefaultXMax>
       <GraphPlotDefaultYMin>1.092</GraphPlotDefaultYMin>
@@ -1170,7 +1170,7 @@ Time constant = -1/slope
       <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
     </PageGraphCartesian>
   </Page>
-  <CurrentPageIndex>2</CurrentPageIndex>
+  <CurrentPageIndex>3</CurrentPageIndex>
   <DataSet>
     <ID>114 </ID>
     <BroadcastTo>6 4 107 134 177 288 440 </BroadcastTo>
@@ -2280,6 +2280,8 @@ Z1 2:
       <ColumnGroupID>368</ColumnGroupID>
       <ColumnCells>
 1.08
+Z1 1:
+1.099
 </ColumnCells>
     </DataColumn>
     <DataColumn>
@@ -2333,6 +2335,8 @@ Z1 2:
       <ColumnGroupID>437</ColumnGroupID>
       <ColumnCells>
 0.0024
+Z1 1:
+0.0018
 </ColumnCells>
     </DataColumn>
   </DataSet>
@@ -2466,6 +2470,8 @@ Z1 2:
       <ColumnGroupID>607</ColumnGroupID>
       <ColumnCells>
 1.099
+Z1 1:
+1.14
 </ColumnCells>
     </DataColumn>
     <DataColumn>
@@ -2519,6 +2525,8 @@ Z1 2:
       <ColumnGroupID>611</ColumnGroupID>
       <ColumnCells>
 0.0065
+Z1 1:
+0.00513
 </ColumnCells>
     </DataColumn>
   </DataSet>
