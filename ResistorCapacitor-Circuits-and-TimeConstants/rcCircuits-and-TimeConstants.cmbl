@@ -1,9 +1,9 @@
-﻿<Document>
+<Document>
   <FileCoherence>1</FileCoherence>
   <Version>3.16.2</Version>
   <charset>utf-8</charset>
   <ApplicationBuildDateTime>Mar  8 2021 07:58:58</ApplicationBuildDateTime>
-  <FileName>Lab 7.cmbl</FileName>
+  <FileName>rcCircuits-and-TimeConstants.cmbl</FileName>
   <FileIDString>2/20/2024 15:48:23Your name here181305938</FileIDString>
   <CreatorOS>2</CreatorOS>
   <CreatorApp>1</CreatorApp>
@@ -20,13 +20,13 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/20/2024 15:48:23</CreationDateTime>
-  <ModifiedDateTime>2/28/2024 12:47:24</ModifiedDateTime>
+  <ModifiedDateTime>2/29/2024 10:50:00</ModifiedDateTime>
   <PageBounds>0 0 17.75 9.59722222222</PageBounds>
   <ScreenResolution>0 0 2559 1599</ScreenResolution>
   <MathType>0</MathType>
   <AllowOptionsDialogs>1</AllowOptionsDialogs>
   <AllowAutoCurveFit>1</AllowAutoCurveFit>
-  <ReplayWindowPosition>0 106 182 515 407 1</ReplayWindowPosition>
+  <ReplayWindowPosition>0 188 398 597 623 1</ReplayWindowPosition>
   <ReplayWindowSpeed>1</ReplayWindowSpeed>
   <ReplayWindowRepeat>0</ReplayWindowRepeat>
   <SensorConflictEnabled>1</SensorConflictEnabled>
@@ -54,44 +54,11 @@
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 444 1292 853 1517</PageReplayWindowPosition>
-    <PageMeter>
-      <ID>119 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.00667015 6.24559 2.79992 7.79468 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>1</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 1 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <MeterColumnID>117</MeterColumnID>
-      <MeterAudio>0</MeterAudio>
-      <MeterUseShortName>0</MeterUseShortName>
-      <MeterDisplayBlackText>0</MeterDisplayBlackText>
-      <MeterAlarmEnabled>0</MeterAlarmEnabled>
-      <MeterAlarmAbove>1</MeterAlarmAbove>
-      <MeterAlarmValue>0</MeterAlarmValue>
-      <MeterAlertSound>0</MeterAlertSound>
-    </PageMeter>
     <PageGraphCartesian>
       <ID>106 </ID>
       <BroadcastTo>1 122 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.82883 0.0147966 17.7367 4.78381 </Bounds>
+      <Bounds>2.84521422917 0.01 17.74 4.78861111111 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -149,7 +116,7 @@
       <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
       <GraphPlotYMin>0</GraphPlotYMin>
-      <GraphPlotYMax>5</GraphPlotYMax>
+      <GraphPlotYMax>4.8</GraphPlotYMax>
       <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
       <GraphPlotDefaultXMax>3</GraphPlotDefaultXMax>
       <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
@@ -164,9 +131,9 @@
       <ID>122 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.65591555556 0.550012155556 6.82620022352 1.83110590556 </Bounds>
+      <Bounds>3.67230022917 0.545216 6.84258489714 1.82630975 </Bounds>
       <SubordinateToID>106</SubordinateToID>
-      <SubordinateOffset>0.827085555556 0.535215555556</SubordinateOffset>
+      <SubordinateOffset>0.827086 0.535216</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -203,62 +170,11 @@
       <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
       <CurveFitCorrelation>0.999969</CurveFitCorrelation>
     </PageHelperDataCurveFit>
-    <PageText>
-      <ID>120 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.00667015 7.91524 2.79992 9.5701 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>-0.1875 -1.09375</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TextText>Voltage increases exponentially as the capacitor is charging</TextText>
-      <StyleRun>
-        <Start> 0 </Start>
-        <End> 60 </End>
-        <Font>
-          <Size> 12 </Size>
-          <Justification> 0 </Justification>
-          <VerticalJustification> 0 </VerticalJustification>
-          <Styles> 0 0 0 0 0 0 </Styles>
-          <Family> 3 </Family>
-          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-          <Name>Arial</Name>
-          <Rotation>0</Rotation>
-        </Font>
-      </StyleRun>
-      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
-    </PageText>
     <PageTable>
       <ID>107 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0100052 0.0110974 2.80548 6.2271 </Bounds>
+      <Bounds>0.0075 0.0075 2.82771422917 6.23069444444 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -296,11 +212,108 @@
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
+    <PageText>
+      <ID>120 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.005 6.24319444444 2.82021422917 9.58222222222 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>-0.1875 -1.09375</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText>Voltage increases exponentially as the capacitor is charging
+
+Linearize plot ln[(V0-V)/V] vs τ
+Plot is linear
+Slope = -0.9213
+σ Slope = 0.02020
+
+Time constant = -1/slope
+
+= -1/-0.9213 = 1.08 s
+
+στ = |τ| *  σslope/slope
+= 1.08 * 0.002020 / -0.9213
+= 0.0024 s
+</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 93 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 93 </Start>
+        <End> 95 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Lucida Sans Unicode</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 95 </Start>
+        <End> 126 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 126 </Start>
+        <End> 258 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Lucida Sans Unicode</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
     <PageGraphCartesian>
       <ID>202 </ID>
       <BroadcastTo>1 206 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.82883 4.81341 17.7367 9.58243 </Bounds>
+      <Bounds>2.84521422917 4.80861111111 17.74 9.58722222222 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -354,7 +367,7 @@
       <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
       <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
       <GraphPlotXMin>0</GraphPlotXMin>
-      <GraphPlotXMax>4.8</GraphPlotXMax>
+      <GraphPlotXMax>3</GraphPlotXMax>
       <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
       <GraphPlotYMin>-2.8</GraphPlotYMin>
@@ -373,9 +386,9 @@
       <ID>206 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>5.19063777778 7.17501444444 8.69411336372 8.26860819444 </Bounds>
+      <Bounds>5.20702422917 7.17021111111 8.7104998151 8.26380486111 </Bounds>
       <SubordinateToID>202</SubordinateToID>
-      <SubordinateOffset>2.36180777778 2.36160444444</SubordinateOffset>
+      <SubordinateOffset>2.36181 2.3616</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -425,95 +438,11 @@
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 333 872 742 1097</PageReplayWindowPosition>
-    <PageMeter>
-      <ID>132 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.00667015 6.24559 2.79992 7.79468 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>1</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 1 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <MeterColumnID>117</MeterColumnID>
-      <MeterAudio>0</MeterAudio>
-      <MeterUseShortName>0</MeterUseShortName>
-      <MeterDisplayBlackText>0</MeterDisplayBlackText>
-      <MeterAlarmEnabled>0</MeterAlarmEnabled>
-      <MeterAlarmAbove>1</MeterAlarmAbove>
-      <MeterAlarmValue>0</MeterAlarmValue>
-      <MeterAlertSound>0</MeterAlertSound>
-    </PageMeter>
-    <PageText>
-      <ID>140 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.00667015 7.91524 2.79992 9.5701 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>-0.1875 -1.09375</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TextText>Voltage decreases exponentially as the capacitor is discharging</TextText>
-      <StyleRun>
-        <Start> 0 </Start>
-        <End> 63 </End>
-        <Font>
-          <Size> 12 </Size>
-          <Justification> 0 </Justification>
-          <VerticalJustification> 0 </VerticalJustification>
-          <Styles> 0 0 0 0 0 0 </Styles>
-          <Family> 3 </Family>
-          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-          <Name>Arial</Name>
-          <Rotation>0</Rotation>
-        </Font>
-      </StyleRun>
-      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
-    </PageText>
     <PageGraphCartesian>
       <ID>136 </ID>
       <BroadcastTo>1 144 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.82883 0.0147966 17.7367 4.78381 </Bounds>
+      <Bounds>2.84521622917 0.01 17.74 4.78861111111 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -570,8 +499,8 @@
       <GraphPlotXMax>3</GraphPlotXMax>
       <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>0</GraphPlotYMin>
-      <GraphPlotYMax>5</GraphPlotYMax>
+      <GraphPlotYMin>0.2</GraphPlotYMin>
+      <GraphPlotYMax>4.8</GraphPlotYMax>
       <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
       <GraphPlotDefaultXMax>3</GraphPlotDefaultXMax>
       <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
@@ -586,7 +515,7 @@
       <ID>144 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.16286 1.4944566 7.48591566406 2.77555035 </Bounds>
+      <Bounds>4.17924622917 1.48966 7.50230189323 2.77075375 </Bounds>
       <SubordinateToID>136</SubordinateToID>
       <SubordinateOffset>1.33403 1.47966</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -625,11 +554,53 @@
       <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
       <CurveFitCorrelation>0.999773</CurveFitCorrelation>
     </PageHelperDataCurveFit>
+    <PageTable>
+      <ID>134 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.0075 0.0075 2.82771622917 6.23069444444 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 115 0.711483 </TableColumn>
+      <TableColumn> 117 0.711483 </TableColumn>
+      <TableColumn> 175 0.711482 </TableColumn>
+      <TableColumn> 126 0.711483 </TableColumn>
+      <TableColumn> 128 0.711483 </TableColumn>
+      <TableColumn> 199 0.711482 </TableColumn>
+      <TableColumn> 353 0.8 </TableColumn>
+      <TableColumn> 355 0.8 </TableColumn>
+      <TableColumn> 357 0.8 </TableColumn>
+      <TableColumn> 363 0.8 </TableColumn>
+      <TableColumn> 367 0.8 </TableColumn>
+      <TableColumn> 436 0.8 </TableColumn>
+      <TableColumn> 602 0.8 </TableColumn>
+      <TableColumn> 606 0.8 </TableColumn>
+      <TableColumn> 610 0.8 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
     <PageGraphCartesian>
       <ID>178 </ID>
       <BroadcastTo>1 194 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.82883 4.81341 17.7367 9.58243 </Bounds>
+      <Bounds>2.84521622917 4.80861111111 17.74 9.58722222222 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>6.86458 0.260417</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -702,7 +673,7 @@
       <ID>194 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.42225 6.63216 7.80072558594 7.72575375 </Bounds>
+      <Bounds>4.43863622917 6.62736111111 7.8171118151 7.72095486111 </Bounds>
       <SubordinateToID>178</SubordinateToID>
       <SubordinateOffset>1.59342 1.81875</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -723,7 +694,7 @@
         <Rotation>0</Rotation>
       </Font>
       <GUIHelperRangeMin>0</GUIHelperRangeMin>
-      <GUIHelperRangeMax>2.00203</GUIHelperRangeMax>
+      <GUIHelperRangeMax>2.00177256938</GUIHelperRangeMax>
       <GUIHelperTraceColumnID>357</GUIHelperTraceColumnID>
       <GUIHelperBaseColumnID>353</GUIHelperBaseColumnID>
       <GUIHelperPrecision>4</GUIHelperPrecision>
@@ -735,29 +706,29 @@
       <CurveFitColumnID>0</CurveFitColumnID>
       <CurveFitError>0.0203710050757</CurveFitError>
       <CurveFitMethod>1</CurveFitMethod>
-      <CurveFitUncertainty>0</CurveFitUncertainty>
+      <CurveFitUncertainty>1</CurveFitUncertainty>
       <ManualCurveFitIncrements>0 </ManualCurveFitIncrements>
       <ManualCurveFitShowRMSE>1</ManualCurveFitShowRMSE>
       <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
       <CurveFitCorrelation>-0.999319673029</CurveFitCorrelation>
     </PageHelperDataCurveFit>
-    <PageTable>
-      <ID>134 </ID>
+    <PageText>
+      <ID>140 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0100052 0.0110974 2.80548 6.2271 </Bounds>
+      <Bounds>0.005 6.24319444444 2.82021622917 9.58222222222 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
+      <SubordinateOffset>-0.1875 -1.09375</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
       <Locked>0</Locked>
       <AutoCreated>0</AutoCreated>
       <GraphLinkedIDs>0 </GraphLinkedIDs>
       <YLinkedIDs>0 </YLinkedIDs>
       <Font>
         <Size> 12 </Size>
-        <Justification> 2 </Justification>
+        <Justification> 0 </Justification>
         <VerticalJustification> 0 </VerticalJustification>
         <Styles> 0 0 0 0 0 0 </Styles>
         <Family> 3 </Family>
@@ -765,29 +736,86 @@
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 115 0.711483 </TableColumn>
-      <TableColumn> 117 0.711483 </TableColumn>
-      <TableColumn> 175 0.711482 </TableColumn>
-      <TableColumn> 126 0.711483 </TableColumn>
-      <TableColumn> 128 0.711483 </TableColumn>
-      <TableColumn> 199 0.711482 </TableColumn>
-      <TableColumn> 353 0.8 </TableColumn>
-      <TableColumn> 355 0.8 </TableColumn>
-      <TableColumn> 357 0.8 </TableColumn>
-      <TableColumn> 363 0.8 </TableColumn>
-      <TableColumn> 367 0.8 </TableColumn>
-      <TableColumn> 436 0.8 </TableColumn>
-      <TableColumn> 602 0.8 </TableColumn>
-      <TableColumn> 606 0.8 </TableColumn>
-      <TableColumn> 610 0.8 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
+      <TextText>Voltage decreases exponentially as the capacitor is discharging
+
+Linearize plot ln(V/V0) vs τ
+Plot is linear
+Slope = -0.9100
+σ Slope = 0.05378
+
+Time constant = -1/slope
+
+= -1/-0.9100 = 1.099 s
+
+στ = |τ| *  σslope/slope
+= 1.099 * 0.005378 / -0.9100
+= 0.0065 s
+
+
+</TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 92 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 92 </Start>
+        <End> 94 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Lucida Sans Unicode</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 94 </Start>
+        <End> 125 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <StyleRun>
+        <Start> 125 </Start>
+        <End> 261 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Lucida Sans Unicode</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
   </Page>
   <Page>
     <ID>278 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>0</Visible>
+    <Visible>1</Visible>
     <PageTitle></PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -796,11 +824,135 @@
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 188 398 597 623</PageReplayWindowPosition>
+    <PageText>
+      <ID>619 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.005 6.24319444444 2.82021622917 9.58222222222 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText></TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 0 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageGraphCartesian>
+      <ID>618 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>2.84521622917 0.01 17.74 9.58722222222 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle>Charging Error Bars</GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>363 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 363 367 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>0</GraphShowBaseErrorBars>
+      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphBarGraph>1</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>1</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0.5</GraphPlotXMin>
+      <GraphPlotXMax>1.4</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>1.0776</GraphPlotYMin>
+      <GraphPlotYMax>1.0824</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0.5</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>1.4</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>1.0776</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>1.0824</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <AudioTraceIDs>1 367 </AudioTraceIDs>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
     <PageTable>
       <ID>288 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0075 0.0075 17.7425 9.58972 </Bounds>
+      <Bounds>0.0075 0.0075 2.82771622917 6.23069444444 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -829,9 +981,9 @@
       <TableColumn> 353 0.8 </TableColumn>
       <TableColumn> 355 0.8 </TableColumn>
       <TableColumn> 357 0.855556 </TableColumn>
-      <TableColumn> 363 1.73056 </TableColumn>
+      <TableColumn> 363 1.13334 </TableColumn>
       <TableColumn> 367 0.8 </TableColumn>
-      <TableColumn> 436 0.8 </TableColumn>
+      <TableColumn> 436 0.848611 </TableColumn>
       <TableColumn> 602 0.8 </TableColumn>
       <TableColumn> 606 0.8 </TableColumn>
       <TableColumn> 610 0.8 </TableColumn>
@@ -842,7 +994,7 @@
   <Page>
     <ID>438 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>1</Visible>
+    <Visible>0</Visible>
     <PageTitle></PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -851,11 +1003,135 @@
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
     <PageReplayWindowPosition>0 106 182 515 407</PageReplayWindowPosition>
+    <PageText>
+      <ID>621 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.005 6.24319444444 2.82021622917 9.58222222222 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText></TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 0 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageGraphCartesian>
+      <ID>620 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>2.84521622917 0.01 17.74 9.58722222222 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle>Discharging Error Bars</GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>602 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 602 606 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>0</GraphShowBaseErrorBars>
+      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphBarGraph>1</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0.5</GraphPlotXMin>
+      <GraphPlotXMax>1.4</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>1.092</GraphPlotYMin>
+      <GraphPlotYMax>1.106</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>4.8</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-2.8</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>0</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <AudioTraceIDs>1 606 </AudioTraceIDs>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
     <PageTable>
       <ID>440 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0075 0.0075 17.7425 9.58972 </Bounds>
+      <Bounds>0.0075 0.0075 2.82771622917 6.23069444444 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -887,14 +1163,14 @@
       <TableColumn> 363 1.73056 </TableColumn>
       <TableColumn> 367 0.8 </TableColumn>
       <TableColumn> 436 0.8 </TableColumn>
-      <TableColumn> 602 1.99444444444 </TableColumn>
+      <TableColumn> 602 1.99444 </TableColumn>
       <TableColumn> 606 0.8 </TableColumn>
       <TableColumn> 610 0.8 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
   </Page>
-  <CurrentPageIndex>3</CurrentPageIndex>
+  <CurrentPageIndex>2</CurrentPageIndex>
   <DataSet>
     <ID>114 </ID>
     <BroadcastTo>6 4 107 134 177 288 440 </BroadcastTo>
@@ -920,7 +1196,7 @@
     </Metadata>
     <DataColumn>
       <ID>115 </ID>
-      <BroadcastTo>9 17 106 107 134 136 178 202 288 440 </BroadcastTo>
+      <BroadcastTo>11 17 106 107 134 136 178 202 288 440 618 620 </BroadcastTo>
       <Visible>0</Visible>
       <DataObjectName>Time</DataObjectName>
       <DataObjectShortName>t</DataObjectShortName>
@@ -974,7 +1250,7 @@ Z2 1:
     </DataColumn>
     <DataColumn>
       <ID>117 </ID>
-      <BroadcastTo>12 4 17 106 107 119 132 134 136 177 178 288 440 </BroadcastTo>
+      <BroadcastTo>10 4 17 106 107 134 136 177 178 288 440 </BroadcastTo>
       <Visible>0</Visible>
       <DataObjectName>Potential</DataObjectName>
       <DataObjectShortName>Pot</DataObjectShortName>
@@ -1027,7 +1303,7 @@ Z2 1:
     </DataColumn>
     <DataColumn>
       <ID>175 </ID>
-      <BroadcastTo>7 17 107 134 178 202 288 440 </BroadcastTo>
+      <BroadcastTo>9 17 107 134 178 202 288 440 618 620 </BroadcastTo>
       <Visible>0</Visible>
       <DataObjectName>ln(V/V0)</DataObjectName>
       <DataObjectShortName>ln(V/V0)</DataObjectShortName>
@@ -1180,7 +1456,7 @@ B
       <Visible>1</Visible>
       <DataObjectName>m*x+b</DataObjectName>
       <DataObjectShortName>Linear</DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x2e</DataObjectColor>
+      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x0</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>0</DataObjectPrecisionDecimal>
       <DataObjectPrecision>4</DataObjectPrecision>
@@ -1200,7 +1476,7 @@ b
     </FunctionModel>
     <FunctionModel>
       <ID>207 </ID>
-      <BroadcastTo>1 202 </BroadcastTo>
+      <BroadcastTo>2 202 618 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>m*x+b 2</DataObjectName>
       <DataObjectShortName>Linear</DataObjectShortName>
@@ -1297,7 +1573,7 @@ b
     </Metadata>
     <DataColumn>
       <ID>126 </ID>
-      <BroadcastTo>8 17 106 107 134 136 202 288 440 </BroadcastTo>
+      <BroadcastTo>9 17 106 107 134 136 202 288 440 618 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Time</DataObjectName>
       <DataObjectShortName>t</DataObjectShortName>
@@ -1524,7 +1800,7 @@ b
     </DataColumn>
     <DataColumn>
       <ID>199 </ID>
-      <BroadcastTo>6 17 107 134 202 288 440 </BroadcastTo>
+      <BroadcastTo>7 17 107 134 202 288 440 618 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>ln((V0-V)/V0)</DataObjectName>
       <DataObjectShortName>ln((V0-V)/V0)</DataObjectShortName>
@@ -1899,7 +2175,7 @@ b
     </Metadata>
     <DataColumn>
       <ID>363 </ID>
-      <BroadcastTo>5 17 107 134 288 440 </BroadcastTo>
+      <BroadcastTo>6 17 107 134 288 440 618 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Method</DataObjectName>
       <DataObjectShortName></DataObjectShortName>
@@ -1955,14 +2231,14 @@ Z1 2:
     </DataColumn>
     <DataColumn>
       <ID>367 </ID>
-      <BroadcastTo>5 17 107 134 288 440 </BroadcastTo>
+      <BroadcastTo>6 17 107 134 288 440 618 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>τ</DataObjectName>
       <DataObjectShortName></DataObjectShortName>
-      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
-      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectPrecision>4</DataObjectPrecision>
       <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
       <DataObjectThickLines>0</DataObjectThickLines>
       <ColumnUnits>ΩF</ColumnUnits>
@@ -2003,7 +2279,7 @@ Z1 2:
       <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
       <ColumnGroupID>368</ColumnGroupID>
       <ColumnCells>
-Z2 1:
+1.08
 </ColumnCells>
     </DataColumn>
     <DataColumn>
@@ -2015,7 +2291,7 @@ Z2 1:
       <DataObjectColor>0x0 0x0 0xffff| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
-      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectPrecision>5</DataObjectPrecision>
       <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
       <DataObjectThickLines>0</DataObjectThickLines>
       <ColumnUnits>ΩF</ColumnUnits>
@@ -2056,7 +2332,7 @@ Z2 1:
       <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
       <ColumnGroupID>437</ColumnGroupID>
       <ColumnCells>
-Z2 1:
+0.0024
 </ColumnCells>
     </DataColumn>
   </DataSet>
@@ -2085,11 +2361,11 @@ Z2 1:
     </Metadata>
     <DataColumn>
       <ID>602 </ID>
-      <BroadcastTo>5 17 107 134 288 440 </BroadcastTo>
+      <BroadcastTo>6 17 107 134 288 440 620 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Method</DataObjectName>
       <DataObjectShortName></DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x2e</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>0</DataObjectPrecision>
@@ -2141,14 +2417,14 @@ Z1 2:
     </DataColumn>
     <DataColumn>
       <ID>606 </ID>
-      <BroadcastTo>5 17 107 134 288 440 </BroadcastTo>
+      <BroadcastTo>6 17 107 134 288 440 620 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>τ</DataObjectName>
       <DataObjectShortName></DataObjectShortName>
-      <DataObjectColor>0x9999 0x0 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x9999 0x0 0x0| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
-      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectPrecision>4</DataObjectPrecision>
       <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
       <DataObjectThickLines>0</DataObjectThickLines>
       <ColumnUnits>ΩF</ColumnUnits>
@@ -2189,7 +2465,7 @@ Z1 2:
       <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
       <ColumnGroupID>607</ColumnGroupID>
       <ColumnCells>
-Z2 1:
+1.099
 </ColumnCells>
     </DataColumn>
     <DataColumn>
@@ -2198,10 +2474,10 @@ Z2 1:
       <Visible>1</Visible>
       <DataObjectName>στ</DataObjectName>
       <DataObjectShortName></DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0x9999| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x0 0x0 0x9999| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
-      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectPrecision>6</DataObjectPrecision>
       <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
       <DataObjectThickLines>0</DataObjectThickLines>
       <ColumnUnits>ΩF</ColumnUnits>
@@ -2242,7 +2518,7 @@ Z2 1:
       <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
       <ColumnGroupID>611</ColumnGroupID>
       <ColumnCells>
-Z2 1:
+0.0065
 </ColumnCells>
     </DataColumn>
   </DataSet>
