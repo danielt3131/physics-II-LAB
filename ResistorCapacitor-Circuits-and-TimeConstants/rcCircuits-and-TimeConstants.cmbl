@@ -1,4 +1,4 @@
-<Document>
+﻿<Document>
   <FileCoherence>1</FileCoherence>
   <Version>3.16.2</Version>
   <charset>utf-8</charset>
@@ -20,13 +20,13 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/20/2024 15:48:23</CreationDateTime>
-  <ModifiedDateTime>2/29/2024 16:53:29</ModifiedDateTime>
-  <PageBounds>0 0 17.75 9.59722222222</PageBounds>
-  <ScreenResolution>0 0 2559 1599</ScreenResolution>
+  <ModifiedDateTime>2/29/2024 21:21:38</ModifiedDateTime>
+  <PageBounds>0 0 19.9583333333 9.64583333333</PageBounds>
+  <ScreenResolution>0 0 1919 1079</ScreenResolution>
   <MathType>0</MathType>
   <AllowOptionsDialogs>1</AllowOptionsDialogs>
   <AllowAutoCurveFit>1</AllowAutoCurveFit>
-  <ReplayWindowPosition>0 106 182 515 407 1</ReplayWindowPosition>
+  <ReplayWindowPosition>0 79 122 353 276 1</ReplayWindowPosition>
   <ReplayWindowSpeed>1</ReplayWindowSpeed>
   <ReplayWindowRepeat>0</ReplayWindowRepeat>
   <SensorConflictEnabled>1</SensorConflictEnabled>
@@ -53,12 +53,12 @@
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 444 1292 853 1517</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 332 871 606 1025</PageReplayWindowPosition>
     <PageText>
       <ID>120 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.005 6.24319444444 2.82021422917 9.58222222222 </Bounds>
+      <Bounds>0.0056220657277 6.27481699228 3.17108595252 9.63075735649 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>-0.1875 -1.09375</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -155,7 +155,7 @@ Time constant = -1/slope
       <ID>202 </ID>
       <BroadcastTo>1 206 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.84521422917 4.80861111111 17.74 9.58722222222 </Bounds>
+      <Bounds>3.19919628116 4.8329673179 19.9470892019 9.6357826821 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -228,9 +228,9 @@ Time constant = -1/slope
       <ID>206 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>5.20702422917 7.17021111111 12.2470270575 8.27418960819 </Bounds>
+      <Bounds>5.85484649242 7.2065291124 9.40382207836 8.3201228624 </Bounds>
       <SubordinateToID>202</SubordinateToID>
-      <SubordinateOffset>2.36181 2.3616</SubordinateOffset>
+      <SubordinateOffset>2.65565021127 2.3735617945</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -271,7 +271,7 @@ Time constant = -1/slope
       <ID>107 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0075 0.0075 2.82771422917 6.23069444444 </Bounds>
+      <Bounds>0.00843309859155 0.00753798842258 3.17951905111 6.26225367824 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -291,21 +291,21 @@ Time constant = -1/slope
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 115 0.8 </TableColumn>
-      <TableColumn> 117 0.8 </TableColumn>
-      <TableColumn> 175 0.8 </TableColumn>
-      <TableColumn> 126 0.8 </TableColumn>
-      <TableColumn> 128 0.8 </TableColumn>
-      <TableColumn> 199 0.8 </TableColumn>
-      <TableColumn> 353 0.899531 </TableColumn>
-      <TableColumn> 355 0.899531 </TableColumn>
-      <TableColumn> 357 0.899531 </TableColumn>
-      <TableColumn> 363 0.899531 </TableColumn>
-      <TableColumn> 367 0.899531 </TableColumn>
-      <TableColumn> 436 0.899531 </TableColumn>
-      <TableColumn> 602 0.899531 </TableColumn>
-      <TableColumn> 606 0.899531 </TableColumn>
-      <TableColumn> 610 0.899531 </TableColumn>
+      <TableColumn> 115 0.899530516432 </TableColumn>
+      <TableColumn> 117 0.899530516432 </TableColumn>
+      <TableColumn> 175 0.899530516432 </TableColumn>
+      <TableColumn> 126 0.899530516432 </TableColumn>
+      <TableColumn> 128 0.899530516432 </TableColumn>
+      <TableColumn> 199 0.899530516432 </TableColumn>
+      <TableColumn> 353 1.01144448122 </TableColumn>
+      <TableColumn> 355 1.01144448122 </TableColumn>
+      <TableColumn> 357 1.01144448122 </TableColumn>
+      <TableColumn> 363 1.01144448122 </TableColumn>
+      <TableColumn> 367 1.01144448122 </TableColumn>
+      <TableColumn> 436 1.01144448122 </TableColumn>
+      <TableColumn> 602 1.01144448122 </TableColumn>
+      <TableColumn> 606 1.01144448122 </TableColumn>
+      <TableColumn> 610 1.01144448122 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -313,7 +313,7 @@ Time constant = -1/slope
       <ID>106 </ID>
       <BroadcastTo>1 122 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.84521422917 0.01 17.74 4.78861111111 </Bounds>
+      <Bounds>3.19919628116 0.0100506512301 19.9470892019 4.81286601544 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -386,9 +386,9 @@ Time constant = -1/slope
       <ID>122 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.67230022917 0.545216 10.042777911 1.83847499379 </Bounds>
+      <Bounds>4.12918265205 0.547977586107 7.34496732002 1.84907133611 </Bounds>
       <SubordinateToID>106</SubordinateToID>
-      <SubordinateOffset>0.827086 0.535216</SubordinateOffset>
+      <SubordinateOffset>0.929986370892 0.537926934877</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -437,12 +437,12 @@ Time constant = -1/slope
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 333 872 742 1097</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 249 588 523 742</PageReplayWindowPosition>
     <PageGraphCartesian>
       <ID>136 </ID>
       <BroadcastTo>1 144 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.84521622917 0.01 17.74 4.78861111111 </Bounds>
+      <Bounds>3.19919852998 0.0100506512301 19.9470892019 4.81286601544 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -515,9 +515,9 @@ Time constant = -1/slope
       <ID>144 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.34521622917 1.49715 11.022677139 2.79040899379 </Bounds>
+      <Bounds>4.88581824829 1.50473324891 8.25437391235 2.80582699891 </Bounds>
       <SubordinateToID>136</SubordinateToID>
-      <SubordinateOffset>1.5 1.48715</SubordinateOffset>
+      <SubordinateOffset>1.68661971831 1.49468259768</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -558,7 +558,7 @@ Time constant = -1/slope
       <ID>134 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0075 0.0075 2.82771622917 6.23069444444 </Bounds>
+      <Bounds>0.00843309859155 0.00753798842258 3.17952129994 6.26225367824 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -578,21 +578,21 @@ Time constant = -1/slope
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 115 0.711483 </TableColumn>
-      <TableColumn> 117 0.711483 </TableColumn>
-      <TableColumn> 175 0.711482 </TableColumn>
-      <TableColumn> 126 0.711483 </TableColumn>
-      <TableColumn> 128 0.711483 </TableColumn>
-      <TableColumn> 199 0.711482 </TableColumn>
-      <TableColumn> 353 0.8 </TableColumn>
-      <TableColumn> 355 0.8 </TableColumn>
-      <TableColumn> 357 0.8 </TableColumn>
-      <TableColumn> 363 0.8 </TableColumn>
-      <TableColumn> 367 0.8 </TableColumn>
-      <TableColumn> 436 0.8 </TableColumn>
-      <TableColumn> 602 0.8 </TableColumn>
-      <TableColumn> 606 0.8 </TableColumn>
-      <TableColumn> 610 0.8 </TableColumn>
+      <TableColumn> 115 0.800000838028 </TableColumn>
+      <TableColumn> 117 0.800000838028 </TableColumn>
+      <TableColumn> 175 0.799999713615 </TableColumn>
+      <TableColumn> 126 0.800000838028 </TableColumn>
+      <TableColumn> 128 0.800000838028 </TableColumn>
+      <TableColumn> 199 0.799999713615 </TableColumn>
+      <TableColumn> 353 0.899530516432 </TableColumn>
+      <TableColumn> 355 0.899530516432 </TableColumn>
+      <TableColumn> 357 0.899530516432 </TableColumn>
+      <TableColumn> 363 0.899530516432 </TableColumn>
+      <TableColumn> 367 0.899530516432 </TableColumn>
+      <TableColumn> 436 0.899530516432 </TableColumn>
+      <TableColumn> 602 0.899530516432 </TableColumn>
+      <TableColumn> 606 0.899530516432 </TableColumn>
+      <TableColumn> 610 0.899530516432 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -600,7 +600,7 @@ Time constant = -1/slope
       <ID>178 </ID>
       <BroadcastTo>1 194 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.84521622917 4.80861111111 17.74 9.58722222222 </Bounds>
+      <Bounds>3.19919852998 4.8329673179 19.9470892019 9.6357826821 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>6.86458 0.260417</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -673,9 +673,9 @@ Time constant = -1/slope
       <ID>194 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>4.63687622917 6.63657111111 11.4256998122 7.74054960819 </Bounds>
+      <Bounds>5.21376458632 6.67018616015 8.63774017226 7.78377991015 </Bounds>
       <SubordinateToID>178</SubordinateToID>
-      <SubordinateOffset>1.79166 1.82796</SubordinateOffset>
+      <SubordinateOffset>2.01456605634 1.83721884226</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -716,7 +716,7 @@ Time constant = -1/slope
       <ID>140 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.005 6.24319444444 2.82021622917 9.58222222222 </Bounds>
+      <Bounds>0.0056220657277 6.27481699228 3.17108820134 9.63075735649 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>-0.1875 -1.09375</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -823,12 +823,105 @@ Time constant = -1/slope
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 188 398 597 623</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 140 268 414 422</PageReplayWindowPosition>
+    <PageText>
+      <ID>619 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.0056220657277 6.27481699228 3.17108820134 9.63075735649 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TextText></TextText>
+      <StyleRun>
+        <Start> 0 </Start>
+        <End> 0 </End>
+        <Font>
+          <Size> 12 </Size>
+          <Justification> 0 </Justification>
+          <VerticalJustification> 0 </VerticalJustification>
+          <Styles> 0 0 0 0 0 0 </Styles>
+          <Family> 3 </Family>
+          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+          <Name>Arial</Name>
+          <Rotation>0</Rotation>
+        </Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageTable>
+      <ID>288 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.00843309859155 0.00753798842258 3.17952129994 6.26225367824 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 115 0.800000838028 </TableColumn>
+      <TableColumn> 117 0.800000838028 </TableColumn>
+      <TableColumn> 175 0.799999713615 </TableColumn>
+      <TableColumn> 126 0.800000838028 </TableColumn>
+      <TableColumn> 128 0.800000838028 </TableColumn>
+      <TableColumn> 199 0.799999713615 </TableColumn>
+      <TableColumn> 353 0.899530516432 </TableColumn>
+      <TableColumn> 355 0.899530516432 </TableColumn>
+      <TableColumn> 357 0.961998413146 </TableColumn>
+      <TableColumn> 363 1.27434239437 </TableColumn>
+      <TableColumn> 367 0.899530516432 </TableColumn>
+      <TableColumn> 436 0.95418936385 </TableColumn>
+      <TableColumn> 602 0.899530516432 </TableColumn>
+      <TableColumn> 606 0.899530516432 </TableColumn>
+      <TableColumn> 610 0.899530516432 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
     <PageGraphCartesian>
       <ID>618 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.84521622917 0.01 17.74 9.58722222222 </Bounds>
+      <Bounds>3.19919852998 0.0100506512301 19.9470892019 9.6357826821 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -881,12 +974,12 @@ Time constant = -1/slope
       <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
       <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
       <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
-      <GraphPlotXMin>0</GraphPlotXMin>
-      <GraphPlotXMax>3.8</GraphPlotXMax>
+      <GraphPlotXMin>0.4</GraphPlotXMin>
+      <GraphPlotXMax>3.6</GraphPlotXMax>
       <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>1.077</GraphPlotYMin>
-      <GraphPlotYMax>1.101</GraphPlotYMax>
+      <GraphPlotYMin>0.95</GraphPlotYMin>
+      <GraphPlotYMax>1.11</GraphPlotYMax>
       <GraphPlotDefaultXMin>0.5</GraphPlotDefaultXMin>
       <GraphPlotDefaultXMax>1.4</GraphPlotDefaultXMax>
       <GraphPlotDefaultYMin>1.0776</GraphPlotDefaultYMin>
@@ -897,99 +990,6 @@ Time constant = -1/slope
       <AudioTraceIDs>1 367 </AudioTraceIDs>
       <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
     </PageGraphCartesian>
-    <PageText>
-      <ID>619 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.005 6.24319444444 2.82021622917 9.58222222222 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>0</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 0 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TextText></TextText>
-      <StyleRun>
-        <Start> 0 </Start>
-        <End> 0 </End>
-        <Font>
-          <Size> 12 </Size>
-          <Justification> 0 </Justification>
-          <VerticalJustification> 0 </VerticalJustification>
-          <Styles> 0 0 0 0 0 0 </Styles>
-          <Family> 3 </Family>
-          <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-          <Name>Arial</Name>
-          <Rotation>0</Rotation>
-        </Font>
-      </StyleRun>
-      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
-    </PageText>
-    <PageTable>
-      <ID>288 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.0075 0.0075 2.82771622917 6.23069444444 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 115 0.711483 </TableColumn>
-      <TableColumn> 117 0.711483 </TableColumn>
-      <TableColumn> 175 0.711482 </TableColumn>
-      <TableColumn> 126 0.711483 </TableColumn>
-      <TableColumn> 128 0.711483 </TableColumn>
-      <TableColumn> 199 0.711482 </TableColumn>
-      <TableColumn> 353 0.8 </TableColumn>
-      <TableColumn> 355 0.8 </TableColumn>
-      <TableColumn> 357 0.855556 </TableColumn>
-      <TableColumn> 363 1.13334 </TableColumn>
-      <TableColumn> 367 0.8 </TableColumn>
-      <TableColumn> 436 0.848611 </TableColumn>
-      <TableColumn> 602 0.8 </TableColumn>
-      <TableColumn> 606 0.8 </TableColumn>
-      <TableColumn> 610 0.8 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
   </Page>
   <Page>
     <ID>438 </ID>
@@ -1002,12 +1002,12 @@ Time constant = -1/slope
     <PageGraphPaper>0 </PageGraphPaper>
     <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
     <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
-    <PageReplayWindowPosition>0 106 182 515 407</PageReplayWindowPosition>
+    <PageReplayWindowPosition>0 79 122 353 276</PageReplayWindowPosition>
     <PageText>
       <ID>646 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.005 6.24319444444 2.58547332695 9.58222222222 </Bounds>
+      <Bounds>0.0056220657277 6.27481699228 2.90714019627 9.63075735649 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1058,7 +1058,7 @@ Time constant = -1/slope
       <ID>440 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0075 0.0075 2.59297332695 6.23069444444 </Bounds>
+      <Bounds>0.00843309859155 0.00753798842258 2.91557329486 6.26225367824 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0.0416667 0.0625</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1078,21 +1078,21 @@ Time constant = -1/slope
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <TableColumn> 115 0.633235329267 </TableColumn>
-      <TableColumn> 117 0.633235329267 </TableColumn>
-      <TableColumn> 175 0.633234439246 </TableColumn>
-      <TableColumn> 126 0.633235329267 </TableColumn>
-      <TableColumn> 128 0.633235329267 </TableColumn>
-      <TableColumn> 199 0.633234439246 </TableColumn>
-      <TableColumn> 353 0.712017382585 </TableColumn>
-      <TableColumn> 355 0.712017382585 </TableColumn>
-      <TableColumn> 357 0.761463429719 </TableColumn>
-      <TableColumn> 363 1.54023600201 </TableColumn>
-      <TableColumn> 367 0.712017382585 </TableColumn>
-      <TableColumn> 436 0.712017382585 </TableColumn>
-      <TableColumn> 602 1.77509493565 </TableColumn>
-      <TableColumn> 606 0.712017382585 </TableColumn>
-      <TableColumn> 610 0.712017382585 </TableColumn>
+      <TableColumn> 115 0.712018128448 </TableColumn>
+      <TableColumn> 117 0.712018128448 </TableColumn>
+      <TableColumn> 175 0.712017127697 </TableColumn>
+      <TableColumn> 126 0.712018128448 </TableColumn>
+      <TableColumn> 128 0.712018128448 </TableColumn>
+      <TableColumn> 199 0.712017127697 </TableColumn>
+      <TableColumn> 353 0.800601704831 </TableColumn>
+      <TableColumn> 355 0.800601704831 </TableColumn>
+      <TableColumn> 357 0.856199490224 </TableColumn>
+      <TableColumn> 363 1.73186160789 </TableColumn>
+      <TableColumn> 367 0.800601704831 </TableColumn>
+      <TableColumn> 436 0.800601704831 </TableColumn>
+      <TableColumn> 602 1.99594008023 </TableColumn>
+      <TableColumn> 606 0.800601704831 </TableColumn>
+      <TableColumn> 610 0.800601704831 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -1100,7 +1100,7 @@ Time constant = -1/slope
       <ID>620 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>2.61047332695 0.01 17.74 9.58722222222 </Bounds>
+      <Bounds>2.9352505249 0.0100506512301 19.9470892019 9.6357826821 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -1153,11 +1153,11 @@ Time constant = -1/slope
       <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
       <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
       <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
-      <GraphPlotXMin>0</GraphPlotXMin>
-      <GraphPlotXMax>3.8</GraphPlotXMax>
+      <GraphPlotXMin>0.4</GraphPlotXMin>
+      <GraphPlotXMax>3.6</GraphPlotXMax>
       <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
       <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
-      <GraphPlotYMin>1.09</GraphPlotYMin>
+      <GraphPlotYMin>0.95</GraphPlotYMin>
       <GraphPlotYMax>1.15</GraphPlotYMax>
       <GraphPlotDefaultXMin>0.5</GraphPlotDefaultXMin>
       <GraphPlotDefaultXMax>1.4</GraphPlotDefaultXMax>
@@ -2280,7 +2280,7 @@ Z1 2:
       <ColumnGroupID>368</ColumnGroupID>
       <ColumnCells>
 1.08
-Z1 1:
+0.964
 1.099
 </ColumnCells>
     </DataColumn>
@@ -2335,7 +2335,7 @@ Z1 1:
       <ColumnGroupID>437</ColumnGroupID>
       <ColumnCells>
 0.0024
-Z1 1:
+0.0115
 0.0018
 </ColumnCells>
     </DataColumn>
@@ -2470,7 +2470,7 @@ Z1 2:
       <ColumnGroupID>607</ColumnGroupID>
       <ColumnCells>
 1.099
-Z1 1:
+0.964
 1.14
 </ColumnCells>
     </DataColumn>
@@ -2525,7 +2525,7 @@ Z1 1:
       <ColumnGroupID>611</ColumnGroupID>
       <ColumnCells>
 0.0065
-Z1 1:
+0.0115
 0.00513
 </ColumnCells>
     </DataColumn>
