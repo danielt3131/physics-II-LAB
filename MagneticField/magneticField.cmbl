@@ -1,8 +1,8 @@
-<Document>
+﻿<Document>
   <FileCoherence>1</FileCoherence>
-  <Version>3.15</Version>
+  <Version>3.16.2</Version>
   <charset>utf-8</charset>
-  <ApplicationBuildDateTime>Apr 13 2018 10:17:43</ApplicationBuildDateTime>
+  <ApplicationBuildDateTime>Mar  8 2021 07:58:58</ApplicationBuildDateTime>
   <FileName>magneticField.cmbl</FileName>
   <FileIDString>2/27/2024 15:24:34Your name here86775137</FileIDString>
   <CreatorOS>2</CreatorOS>
@@ -20,8 +20,8 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/27/2024 15:21:30</CreationDateTime>
-  <ModifiedDateTime>3/5/2024 16:05:55</ModifiedDateTime>
-  <PageBounds>0 0 19.9583333333 9.72916666667</PageBounds>
+  <ModifiedDateTime>3/14/2024 23:03:16</ModifiedDateTime>
+  <PageBounds>0 0 19.9583333333 9.64583333333</PageBounds>
   <ScreenResolution>0 0 1919 1079</ScreenResolution>
   <MathType>0</MathType>
   <AllowOptionsDialogs>1</AllowOptionsDialogs>
@@ -52,7 +52,7 @@
       <ID>140 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.0075 8.03406 3.14827 9.60445 </Bounds>
+      <Bounds>0.0075 7.96524 3.14827 9.52218 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -85,7 +85,7 @@
       <ID>118 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.01125 0.01125 3.88368 7.99531 </Bounds>
+      <Bounds>0.01125 0.0111536 3.88368 7.92682 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -118,6 +118,7 @@
       <TableColumn> 290 0.8 </TableColumn>
       <TableColumn> 442 0.8 </TableColumn>
       <TableColumn> 445 0.8 </TableColumn>
+      <TableColumn> 586 0.8 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -125,7 +126,7 @@
       <ID>117 </ID>
       <BroadcastTo>1 145 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.79535 0.015 19.9583 6.21417 </Bounds>
+      <Bounds>3.79535 0.0148715 19.9583 6.16094 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -198,9 +199,9 @@
       <ID>145 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>5.29535 1.515 7.87694 2.62859 </Bounds>
+      <Bounds>5.29535 1.50202 7.87694 2.61562 </Bounds>
       <SubordinateToID>117</SubordinateToID>
-      <SubordinateOffset>1.5 1.5</SubordinateOffset>
+      <SubordinateOffset>1.5 1.48715</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -241,7 +242,7 @@
       <ID>271 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.8375 6.12917 19.9583 9.72917 </Bounds>
+      <Bounds>3.8375 6.07667 19.9583 9.64583 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0.4375 2.72917</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -306,7 +307,7 @@ Magnetic field is the dependent variable and the current is the independent vari
       <ID>164 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.00750001 8.03406 3.14828 9.60445 </Bounds>
+      <Bounds>0.00750001 7.96524 3.14828 9.52218 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -339,7 +340,7 @@ Magnetic field is the dependent variable and the current is the independent vari
       <ID>166 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>0.01125 0.01125 3.88369 7.99531 </Bounds>
+      <Bounds>0.01125 0.0111536 3.88369 7.92682 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -372,6 +373,7 @@ Magnetic field is the dependent variable and the current is the independent vari
       <TableColumn> 290 0.8 </TableColumn>
       <TableColumn> 442 0.8 </TableColumn>
       <TableColumn> 445 0.8 </TableColumn>
+      <TableColumn> 586 0.8 </TableColumn>
       <StartIndex> 0 </StartIndex>
       <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
     </PageTable>
@@ -379,7 +381,7 @@ Magnetic field is the dependent variable and the current is the independent vari
       <ID>168 </ID>
       <BroadcastTo>1 175 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.79536 0.015 19.875 6.82875 </Bounds>
+      <Bounds>3.79536 0.0148715 19.875 6.77026 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -452,9 +454,9 @@ Magnetic field is the dependent variable and the current is the independent vari
       <ID>175 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>5.29536 1.515 7.486 2.62859 </Bounds>
+      <Bounds>5.29536 1.50202 7.486 2.61562 </Bounds>
       <SubordinateToID>168</SubordinateToID>
-      <SubordinateOffset>1.5 1.5</SubordinateOffset>
+      <SubordinateOffset>1.5 1.48715</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -495,7 +497,7 @@ Magnetic field is the dependent variable and the current is the independent vari
       <ID>272 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.87292 6.88333 19.9583 9.72917 </Bounds>
+      <Bounds>3.87292 6.82437 19.9583 9.64583 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>2.57292 5.58333</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -547,7 +549,7 @@ Magnetic field is the dependent variable and the number of turns is the independ
   <Page>
     <ID>273 </ID>
     <BroadcastTo>0 </BroadcastTo>
-    <Visible>1</Visible>
+    <Visible>0</Visible>
     <PageTitle></PageTitle>
     <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
     <PageDisplayPageInfo>0 </PageDisplayPageInfo>
@@ -560,7 +562,7 @@ Magnetic field is the dependent variable and the number of turns is the independ
       <ID>279 </ID>
       <BroadcastTo>1 448 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.55576822917 0.015 19.9583333333 5.05791666667 </Bounds>
+      <Bounds>3.55577 0.0148715 19.9583 5.01459 </Bounds>
       <SubordinateToID>0</SubordinateToID>
       <SubordinateOffset>0 0</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
@@ -581,7 +583,7 @@ Magnetic field is the dependent variable and the number of turns is the independ
         <Rotation>0</Rotation>
       </Font>
       <GraphTitle>Part III B vs NI Plot</GraphTitle>
-      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x0</GraphTitleColor>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
       <GraphShowPoints>0</GraphShowPoints>
       <GraphInterpolate>0</GraphInterpolate>
       <GraphShowTangent>0</GraphShowTangent>
@@ -601,9 +603,9 @@ Magnetic field is the dependent variable and the number of turns is the independ
       <BinGraphStackColumns>0</BinGraphStackColumns>
       <GraphShowPointProtectors>1</GraphShowPointProtectors>
       <GraphMajorTickStyle>1</GraphMajorTickStyle>
-      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMajorTickColor>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
       <GraphMinorTickStyle>0</GraphMinorTickStyle>
-      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMinorTickColor>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
       <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
       <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
       <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
@@ -633,11 +635,11 @@ Magnetic field is the dependent variable and the number of turns is the independ
       <ID>448 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>5.06618489583 1.50458333333 8.38914729818 2.61817708333 </Bounds>
+      <Bounds>5.06619 1.4916915 8.38915240234 2.60528525 </Bounds>
       <SubordinateToID>279</SubordinateToID>
-      <SubordinateOffset>1.51041666667 1.48958333333</SubordinateOffset>
+      <SubordinateOffset>1.51042 1.47682</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x0</BackgroundColor>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
       <Locked>0</Locked>
       <AutoCreated>0</AutoCreated>
@@ -653,7 +655,7 @@ Magnetic field is the dependent variable and the number of turns is the independ
         <Name>Arial</Name>
         <Rotation>0</Rotation>
       </Font>
-      <GUIHelperRangeMin>1.35157147813</GUIHelperRangeMin>
+      <GUIHelperRangeMin>1.35157</GUIHelperRangeMin>
       <GUIHelperRangeMax>42</GUIHelperRangeMax>
       <GUIHelperTraceColumnID>277</GUIHelperTraceColumnID>
       <GUIHelperBaseColumnID>285</GUIHelperBaseColumnID>
@@ -672,55 +674,13 @@ Magnetic field is the dependent variable and the number of turns is the independ
       <ManualCurveFitWeightColumnId>4294967295</ManualCurveFitWeightColumnId>
       <CurveFitCorrelation>0.998698599808</CurveFitCorrelation>
     </PageHelperDataCurveFit>
-    <PageTable>
-      <ID>280 </ID>
-      <BroadcastTo>0 </BroadcastTo>
-      <Visible>1</Visible>
-      <Bounds>0.01125 0.01125 3.52951822917 9.71791666667 </Bounds>
-      <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>0 0</SubordinateOffset>
-      <BackgroundTransparent>0</BackgroundTransparent>
-      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
-      <AddNewData>1</AddNewData>
-      <Locked>0</Locked>
-      <AutoCreated>0</AutoCreated>
-      <GraphLinkedIDs>0 </GraphLinkedIDs>
-      <YLinkedIDs>0 </YLinkedIDs>
-      <Font>
-        <Size> 12 </Size>
-        <Justification> 2 </Justification>
-        <VerticalJustification> 0 </VerticalJustification>
-        <Styles> 0 0 0 0 0 0 </Styles>
-        <Family> 3 </Family>
-        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
-        <Name>Arial</Name>
-        <Rotation>0</Rotation>
-      </Font>
-      <TableColumn> 275 0.8 </TableColumn>
-      <TableColumn> 277 1.175 </TableColumn>
-      <TableColumn> 283 0.8 </TableColumn>
-      <TableColumn> 285 0.8 </TableColumn>
-      <TableColumn> 290 0.8 </TableColumn>
-      <TableColumn> 442 0.8 </TableColumn>
-      <TableColumn> 445 0.8 </TableColumn>
-      <TableColumn> 136 0.8 </TableColumn>
-      <TableColumn> 141 0.8 </TableColumn>
-      <TableColumn> 143 0.8 </TableColumn>
-      <TableColumn> 138 0.8 </TableColumn>
-      <TableColumn> 154 0.8 </TableColumn>
-      <TableColumn> 156 0.8 </TableColumn>
-      <TableColumn> 158 0.8 </TableColumn>
-      <TableColumn> 160 0.8 </TableColumn>
-      <StartIndex> 0 </StartIndex>
-      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
-    </PageTable>
     <PageText>
       <ID>450 </ID>
       <BroadcastTo>0 </BroadcastTo>
       <Visible>1</Visible>
-      <Bounds>3.71458333333 5.08958333333 19.9583333333 9.69791666667 </Bounds>
+      <Bounds>3.71458 5.04599 19.9583 9.61485 </Bounds>
       <SubordinateToID>0</SubordinateToID>
-      <SubordinateOffset>2.11458333333 3.48958333333</SubordinateOffset>
+      <SubordinateOffset>2.11458 3.48958</SubordinateOffset>
       <BackgroundTransparent>0</BackgroundTransparent>
       <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
       <AddNewData>0</AddNewData>
@@ -812,7 +772,7 @@ Permability constant = &#181;o exp = slope x diameter of a coil = 0.01144 mT/A x
       </StyleRun>
       <StyleRun>
         <Start> 390 </Start>
-        <End> 467 </End>
+        <End> 482 </End>
         <Font>
           <Size> 12 </Size>
           <Justification> 0 </Justification>
@@ -826,11 +786,185 @@ Permability constant = &#181;o exp = slope x diameter of a coil = 0.01144 mT/A x
       </StyleRun>
       <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
     </PageText>
+    <PageTable>
+      <ID>280 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.01125 0.0111536 3.52952 9.63468 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 136 0.8 </TableColumn>
+      <TableColumn> 141 0.8 </TableColumn>
+      <TableColumn> 143 0.8 </TableColumn>
+      <TableColumn> 138 0.8 </TableColumn>
+      <TableColumn> 275 0.8 </TableColumn>
+      <TableColumn> 277 1.175 </TableColumn>
+      <TableColumn> 283 0.8 </TableColumn>
+      <TableColumn> 285 0.8 </TableColumn>
+      <TableColumn> 290 0.8 </TableColumn>
+      <TableColumn> 442 0.8 </TableColumn>
+      <TableColumn> 445 0.8 </TableColumn>
+      <TableColumn> 154 0.8 </TableColumn>
+      <TableColumn> 156 0.8 </TableColumn>
+      <TableColumn> 158 0.8 </TableColumn>
+      <TableColumn> 160 0.8 </TableColumn>
+      <TableColumn> 586 0.8 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
   </Page>
-  <CurrentPageIndex>2</CurrentPageIndex>
+  <Page>
+    <ID>499 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>1</Visible>
+    <PageTitle></PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 80 123 354 277</PageReplayWindowPosition>
+    <PageGraphCartesian>
+      <ID>505 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>3.18077 0.015 19.9433 9.63083 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>1</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 0 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <GraphTitle></GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x0</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>586 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 586 501 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>0</GraphShowBaseErrorBars>
+      <GraphShowUncertaintyBoxes>0</GraphShowUncertaintyBoxes>
+      <GraphConnectLines>0</GraphConnectLines>
+      <GraphBarGraph>1</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0x0</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0</GraphPlotXMin>
+      <GraphPlotXMax>10</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>0</GraphPlotYMin>
+      <GraphPlotYMax>10</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>10</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>10</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <AudioTraceIDs>1 501 </AudioTraceIDs>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageTable>
+      <ID>506 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.01125 0.01125 3.15452 9.63458 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+        <Size> 12 </Size>
+        <Justification> 2 </Justification>
+        <VerticalJustification> 0 </VerticalJustification>
+        <Styles> 0 0 0 0 0 0 </Styles>
+        <Family> 3 </Family>
+        <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+        <Name>Arial</Name>
+        <Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 501 0.8 </TableColumn>
+      <TableColumn> 503 0.8 </TableColumn>
+      <TableColumn> 586 0.8 </TableColumn>
+      <TableColumn> 136 0.8 </TableColumn>
+      <TableColumn> 141 0.8 </TableColumn>
+      <TableColumn> 143 0.8 </TableColumn>
+      <TableColumn> 138 0.8 </TableColumn>
+      <TableColumn> 154 0.8 </TableColumn>
+      <TableColumn> 156 0.8 </TableColumn>
+      <TableColumn> 158 0.8 </TableColumn>
+      <TableColumn> 160 0.8 </TableColumn>
+      <TableColumn> 275 0.8 </TableColumn>
+      <TableColumn> 277 0.8 </TableColumn>
+      <TableColumn> 283 0.8 </TableColumn>
+      <TableColumn> 285 0.8 </TableColumn>
+      <TableColumn> 290 0.8 </TableColumn>
+      <TableColumn> 442 0.8 </TableColumn>
+      <TableColumn> 445 0.8 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+  </Page>
+  <CurrentPageIndex>3</CurrentPageIndex>
   <DataSet>
     <ID>135 </ID>
-    <BroadcastTo>4 4 118 166 280 </BroadcastTo>
+    <BroadcastTo>5 4 118 166 280 506 </BroadcastTo>
     <Visible>1</Visible>
     <DataSetName>Part 2</DataSetName>
     <DataSetComments></DataSetComments>
@@ -853,7 +987,7 @@ Permability constant = &#181;o exp = slope x diameter of a coil = 0.01144 mT/A x
     </Metadata>
     <DataColumn>
       <ID>136 </ID>
-      <BroadcastTo>6 17 117 118 166 168 280 </BroadcastTo>
+      <BroadcastTo>7 17 117 118 166 168 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Entry</DataObjectName>
       <DataObjectShortName>Entry</DataObjectShortName>
@@ -921,7 +1055,7 @@ Permability constant = &#181;o exp = slope x diameter of a coil = 0.01144 mT/A x
     </DataColumn>
     <DataColumn>
       <ID>141 </ID>
-      <BroadcastTo>6 17 117 118 166 168 280 </BroadcastTo>
+      <BroadcastTo>7 17 117 118 166 168 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Current</DataObjectName>
       <DataObjectShortName>I</DataObjectShortName>
@@ -988,7 +1122,7 @@ Permability constant = &#181;o exp = slope x diameter of a coil = 0.01144 mT/A x
     </DataColumn>
     <DataColumn>
       <ID>143 </ID>
-      <BroadcastTo>6 17 118 166 168 279 280 </BroadcastTo>
+      <BroadcastTo>7 17 118 166 168 279 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>numTurns</DataObjectName>
       <DataObjectShortName>N</DataObjectShortName>
@@ -1055,7 +1189,7 @@ Permability constant = &#181;o exp = slope x diameter of a coil = 0.01144 mT/A x
     </DataColumn>
     <DataColumn>
       <ID>138 </ID>
-      <BroadcastTo>10 4 17 117 118 140 164 166 168 279 280 </BroadcastTo>
+      <BroadcastTo>11 4 17 117 118 140 164 166 168 279 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Magnetic Field</DataObjectName>
       <DataObjectShortName>B</DataObjectShortName>
@@ -1242,11 +1376,11 @@ b
     </FunctionModel>
     <FunctionModel>
       <ID>449 </ID>
-      <BroadcastTo>1 279 </BroadcastTo>
+      <BroadcastTo>2 279 505 </BroadcastTo>
       <Visible>1</Visible>
-      <DataObjectName>mx+b</DataObjectName>
-      <DataObjectShortName>mx+b</DataObjectShortName>
-      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectName>m*x+b 5</DataObjectName>
+      <DataObjectShortName>Linear</DataObjectShortName>
+      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x2e</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>0</DataObjectPrecisionDecimal>
       <DataObjectPrecision>4</DataObjectPrecision>
@@ -1267,7 +1401,7 @@ b
   </DataSet>
   <DataSet>
     <ID>153 </ID>
-    <BroadcastTo>3 118 166 280 </BroadcastTo>
+    <BroadcastTo>4 118 166 280 506 </BroadcastTo>
     <Visible>1</Visible>
     <DataSetName>Part 1</DataSetName>
     <DataSetComments></DataSetComments>
@@ -1290,7 +1424,7 @@ b
     </Metadata>
     <DataColumn>
       <ID>154 </ID>
-      <BroadcastTo>4 17 118 166 280 </BroadcastTo>
+      <BroadcastTo>5 17 118 166 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Entry</DataObjectName>
       <DataObjectShortName>Entry</DataObjectShortName>
@@ -1363,7 +1497,7 @@ b
     </DataColumn>
     <DataColumn>
       <ID>156 </ID>
-      <BroadcastTo>6 17 117 118 166 168 280 </BroadcastTo>
+      <BroadcastTo>7 17 117 118 166 168 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Current</DataObjectName>
       <DataObjectShortName>I</DataObjectShortName>
@@ -1435,7 +1569,7 @@ b
     </DataColumn>
     <DataColumn>
       <ID>158 </ID>
-      <BroadcastTo>4 17 118 166 280 </BroadcastTo>
+      <BroadcastTo>5 17 118 166 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>numTurns</DataObjectName>
       <DataObjectShortName>N</DataObjectShortName>
@@ -1507,7 +1641,7 @@ b
     </DataColumn>
     <DataColumn>
       <ID>160 </ID>
-      <BroadcastTo>6 17 117 118 166 168 280 </BroadcastTo>
+      <BroadcastTo>7 17 117 118 166 168 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Magnetic Field</DataObjectName>
       <DataObjectShortName>B</DataObjectShortName>
@@ -1580,7 +1714,7 @@ b
   </DataSet>
   <DataSet>
     <ID>274 </ID>
-    <BroadcastTo>6 118 166 280 287 444 447 </BroadcastTo>
+    <BroadcastTo>7 118 166 280 287 444 447 506 </BroadcastTo>
     <Visible>1</Visible>
     <DataSetName>Part-III Combined Part I&#38;II</DataSetName>
     <DataSetComments></DataSetComments>
@@ -1603,7 +1737,7 @@ b
     </Metadata>
     <DataColumn>
       <ID>275 </ID>
-      <BroadcastTo>5 17 279 280 287 444 </BroadcastTo>
+      <BroadcastTo>6 17 279 280 287 444 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Current</DataObjectName>
       <DataObjectShortName>I</DataObjectShortName>
@@ -1689,7 +1823,7 @@ b
     </DataColumn>
     <DataColumn>
       <ID>277 </ID>
-      <BroadcastTo>3 17 279 280 </BroadcastTo>
+      <BroadcastTo>5 17 279 280 505 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Magnetic Field</DataObjectName>
       <DataObjectShortName>B</DataObjectShortName>
@@ -1775,7 +1909,7 @@ b
     </DataColumn>
     <DataColumn>
       <ID>283 </ID>
-      <BroadcastTo>6 17 118 166 280 287 447 </BroadcastTo>
+      <BroadcastTo>7 17 118 166 280 287 447 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>Turns</DataObjectName>
       <DataObjectShortName>N</DataObjectShortName>
@@ -1861,7 +1995,7 @@ b
     </DataColumn>
     <DataColumn>
       <ID>285 </ID>
-      <BroadcastTo>5 17 118 166 279 280 </BroadcastTo>
+      <BroadcastTo>7 17 118 166 279 280 505 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>NI</DataObjectName>
       <DataObjectShortName>NI</DataObjectShortName>
@@ -1911,7 +2045,7 @@ b
     </DataColumn>
     <DataColumn>
       <ID>290 </ID>
-      <BroadcastTo>4 17 118 166 280 </BroadcastTo>
+      <BroadcastTo>5 17 118 166 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>σB</DataObjectName>
       <DataObjectShortName>σB</DataObjectShortName>
@@ -1997,11 +2131,11 @@ b
     </DataColumn>
     <DataColumn>
       <ID>442 </ID>
-      <BroadcastTo>5 17 118 166 280 447 </BroadcastTo>
+      <BroadcastTo>6 17 118 166 280 447 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>σI</DataObjectName>
       <DataObjectShortName>σI</DataObjectShortName>
-      <DataObjectColor>0x9999 0x0 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x9999 0x0 0x0| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>444</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>3</DataObjectPrecision>
@@ -2047,11 +2181,11 @@ b
     </DataColumn>
     <DataColumn>
       <ID>445 </ID>
-      <BroadcastTo>4 17 118 166 280 </BroadcastTo>
+      <BroadcastTo>5 17 118 166 280 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>σNI</DataObjectName>
       <DataObjectShortName>σNI</DataObjectShortName>
-      <DataObjectColor>0x2f2f 0x4f4f 0x2f2f| 0xffff 0x0</DataObjectColor>
+      <DataObjectColor>0x2f2f 0x4f4f 0x2f2f| 0xffff 0xffffffff</DataObjectColor>
       <DataObjectDataSource>447</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>3</DataObjectPrecision>
@@ -2094,6 +2228,191 @@ b
       <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
       <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
       <ColumnGroupID>446</ColumnGroupID>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>500 </ID>
+    <BroadcastTo>4 118 166 280 506 </BroadcastTo>
+    <Visible>1</Visible>
+    <DataSetName>Error Analysis</DataSetName>
+    <DataSetComments></DataSetComments>
+    <DataSetPosition>4</DataSetPosition>
+    <DataSetSourceName></DataSetSourceName>
+    <DataSetShowInDataBrowser>1</DataSetShowInDataBrowser>
+    <DataSetHistogram>0</DataSetHistogram>
+    <DataSetFFT>0</DataSetFFT>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetAutoCreated>0</DataSetAutoCreated>
+    <DataSetStoredRun>0</DataSetStoredRun>
+    <DataSetPrediction>0</DataSetPrediction>
+    <DataSetVideoAnalysis>0</DataSetVideoAnalysis>
+    <DataSetGraphMatch>0</DataSetGraphMatch>
+    <Metadata>
+      <DataMark>
+      </DataMark>
+      <DataTag>
+      </DataTag>
+    </Metadata>
+    <DataColumn>
+      <ID>501 </ID>
+      <BroadcastTo>3 17 505 506 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>&#181;₀</DataObjectName>
+      <DataObjectShortName>&#181;₀</DataObjectShortName>
+      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>0</DataObjectThickLines>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>0</ColumnProtected>
+      <ColumnUserEditable>1</ColumnUserEditable>
+      <ColumnTreatAsText>0</ColumnTreatAsText>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1710471504</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnGeoRole>n-a</ColumnGeoRole>
+      <ColumnGeoDisplay>DD</ColumnGeoDisplay>
+      <ColumnUserCreated>1</ColumnUserCreated>
+      <ColumnPPStyle>9</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>1</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>0</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>503</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>1</ColumnAllowUserDelete>
+      <ColumnMatchTag></ColumnMatchTag>
+      <ColumnStartCollectTime>0</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>1</ColumnStart>
+      <ColumnEnd>100</ColumnEnd>
+      <ColumnIncrement>1</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>10</ColumnNumber>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <ColumnGroupID>502</ColumnGroupID>
+      <ColumnCells>
+Z2 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>503 </ID>
+      <BroadcastTo>4 17 501 505 506 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>σ&#181;₀</DataObjectName>
+      <DataObjectShortName>&#181;₀</DataObjectShortName>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0xffffffff</DataObjectColor>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>0</DataObjectThickLines>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>0</ColumnProtected>
+      <ColumnUserEditable>1</ColumnUserEditable>
+      <ColumnTreatAsText>0</ColumnTreatAsText>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1710471504</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnGeoRole>n-a</ColumnGeoRole>
+      <ColumnGeoDisplay>DD</ColumnGeoDisplay>
+      <ColumnUserCreated>1</ColumnUserCreated>
+      <ColumnPPStyle>8</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>0</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>1</ColumnAllowUserDelete>
+      <ColumnMatchTag></ColumnMatchTag>
+      <ColumnStartCollectTime>0</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>1</ColumnStart>
+      <ColumnEnd>100</ColumnEnd>
+      <ColumnIncrement>1</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>10</ColumnNumber>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <ColumnGroupID>504</ColumnGroupID>
+      <ColumnCells>
+Z2 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>586 </ID>
+      <BroadcastTo>6 17 118 166 280 505 506 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>Method</DataObjectName>
+      <DataObjectShortName></DataObjectShortName>
+      <DataObjectColor>0x0 0x0 0xffff| 0xffff 0x0</DataObjectColor>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>0</DataObjectThickLines>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>0</ColumnProtected>
+      <ColumnUserEditable>1</ColumnUserEditable>
+      <ColumnTreatAsText>1</ColumnTreatAsText>
+      <ColumnDataType>4</ColumnDataType>
+      <StartTime>1710471550</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnGeoRole>n-a</ColumnGeoRole>
+      <ColumnGeoDisplay>DD</ColumnGeoDisplay>
+      <ColumnUserCreated>1</ColumnUserCreated>
+      <ColumnPPStyle>14</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>0</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>1</ColumnAllowUserDelete>
+      <ColumnMatchTag></ColumnMatchTag>
+      <ColumnStartCollectTime>0</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>1</ColumnStart>
+      <ColumnEnd>100</ColumnEnd>
+      <ColumnIncrement>1</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>10</ColumnNumber>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <ColumnGroupID>587</ColumnGroupID>
+      <ColumnCells>
+Z1 2:Theoretical
+Z1 2:Logger Pro
+Z1 2:Python
+</ColumnCells>
     </DataColumn>
   </DataSet>
   <DataSourceServer>
