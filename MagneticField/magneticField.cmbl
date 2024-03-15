@@ -1,4 +1,4 @@
-﻿<Document>
+<Document>
   <FileCoherence>1</FileCoherence>
   <Version>3.16.2</Version>
   <charset>utf-8</charset>
@@ -20,7 +20,7 @@
   <GraphMatchNumSections>0</GraphMatchNumSections>
   <Stationery>0</Stationery>
   <CreationDateTime>2/27/2024 15:21:30</CreationDateTime>
-  <ModifiedDateTime>3/14/2024 23:03:16</ModifiedDateTime>
+  <ModifiedDateTime>3/14/2024 23:05:51</ModifiedDateTime>
   <PageBounds>0 0 19.9583333333 9.64583333333</PageBounds>
   <ScreenResolution>0 0 1919 1079</ScreenResolution>
   <MathType>0</MathType>
@@ -2311,8 +2311,8 @@ Z2 1:
       <BroadcastTo>4 17 501 505 506 </BroadcastTo>
       <Visible>1</Visible>
       <DataObjectName>σ&#181;₀</DataObjectName>
-      <DataObjectShortName>&#181;₀</DataObjectShortName>
-      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0xffffffff</DataObjectColor>
+      <DataObjectShortName>σ&#181;₀</DataObjectShortName>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0x0</DataObjectColor>
       <DataObjectDataSource>0</DataObjectDataSource>
       <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
       <DataObjectPrecision>0</DataObjectPrecision>
